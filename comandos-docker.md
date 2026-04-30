@@ -32,7 +32,7 @@ mvn clean package -DskipTests
 
 ---
 
-## Rodar aplicação Spring Boot (sem Dockerfile)
+## Rodar aplicação Spring Boot
 
 docker run -d \
 --name spring-app-rm562156 \
